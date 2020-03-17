@@ -1,6 +1,11 @@
 # stickyboard-component-base
 Component base for StickyBoard
 
+# Webpack watch
+```bsh
+$ npm start
+```
+
 # Build
 ```bsh
 $ npm run build
