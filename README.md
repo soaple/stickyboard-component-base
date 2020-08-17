@@ -17,7 +17,7 @@ $ npm run build
 
 # Publish to npm
 ```bsh
-$ npm publish --access public
+$ npm run publish
 ```
 
 # License
